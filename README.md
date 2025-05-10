@@ -7,4 +7,4 @@ In order to reproduce these results (or at least something very similar due to t
 
 Some of this is computationally demanding, and due to the sheer size of the data, all data and outputs were stored on Harvard's Open OnDemand platform. I would have uploaded the .pt files that the model training outputs and adversarial datasets, but they are too large to push to git. Running the testing is much faster if you already have the trained models + datasets, of course. If you are in need of these trained models + adversarial datasets, please let me know so I can get them to you!
 
-Thanks again, and have a lovely summer $*\(^_^)/*$
+Thanks again, and have a lovely summer :)
